@@ -1,0 +1,3 @@
+this is a simple tasks :
+1- Menu Animations (responsive) don't use Bootstrap xD just from scratch. 
+2- Form validation using javascript.
